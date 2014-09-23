@@ -1,0 +1,7 @@
+Instruções para criação da biblioteca
+
+Interface
+
+
+1º - Criar o arquivo de cabeçalho .h
+2º 
